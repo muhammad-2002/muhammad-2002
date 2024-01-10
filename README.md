@@ -1,23 +1,103 @@
-### Hi there 👋, I'M MUHAMMAD MASUM BILLAH
-#### MERN Stack Web Developer
-![MERN Stack Web Developer](https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/411137002_1440907999800340_5402491396176815294_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeHDERbRBoPMShpTMLYz4zR1FL8ogXREfO0UvyiBdER87ZW3UN5cg9m2CbL4GhfuVIW_13jiDXkAbmCa0MerRZPt&_nc_ohc=VEKBD3bcRJsAX9KVpjN&_nc_ht=scontent.fdac110-1.fna&oh=00_AfBmRmo_8PJfL1BpH-shQZvTSP3reiCT_Sgc3FXbt44nZg&oe=65A37DEE)
 
-I'm Muhammad Masum Billah, a passionate web developer with expertise in building dynamic and responsive web applications. My tech stack includes:
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Muhammad Masum Billah</h1>
+<h3 align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Diploma+in+Computer+Science+Engineering;Frontend+Developer;&center=true&width=500&height=50"></a>
+</h3>
 
-Skills: NODE JS / REACT / JS / HTML / CSS
+<p align="center">
+  <em>
+    This is me <b>Muhammad Masum Billah</b> Completed Diploma in Engineering( CSE) at Barishal Polytechnic Institute, Learning by <a target="_blank" href="https://web.programming-hero.com">Programming Hero</a>, Bangladesh</b>&nbsp; 
+  <br>
+  <b><i>"---Always Work Hard and Dedicated---"</i></b>
+    <p align="center">
+ <a href="#" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="masum" />
+ </a>
+ <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ <a href="#twiter" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="#instagram" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"  />
+ </a>
+</p>
+</p>
 
-- 🔭 I’m currently working on Self Employed 
-- 🌱 I’m currently learning NODE JS 
-- 💬 Ask me about Web Devlopment 
+<h3>Little facts about me 🧑</h3>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muhammad-2002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-masum-billah-55b0b929a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100016434611807&sk=about)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/mbuniquetech)  
+- 🔭 I’m currently working on Fontend Web Development.
+- 🧞 I'm a Tech Enthusiast since childhood.
+- 💡 Contributing to Open Source Projects is always been a goal to me.
+- 👯 I’m looking to collaborate with Fontend Web Developement projects.
+- ⚡ Fun fact: I love sports, especially Football.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammad-2002)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-2002)](https://github.com/anuraghazra/github-readme-stats)
+## Use To Technology
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-2002&show_icons=true&count_private=true)  
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=muhammad-2002)  
+
+
+
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/muhammad-2002">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-2002&theme=radical&border=7F3FBF&background=0D1117" alt="muhammad"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/muhammad-2002">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-2002&theme=radical" alt="all GitHub Contribution"/>
+  </a>
+</p>
+
+<a > 
+    <a href="https://github.com/muhammad-2002"><img alt="muhammad-2002" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=muhammad-2002&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/muhammad-2002"><img alt="Al  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammad-2002&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" /></a>
+  <br/>
+</a>
+</br>
+
+
+
+
+<h4> Connect with me🤝: <h4>
+  </hr>
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
+   <img align="left" alt=" masum | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:masumbilla10104@gmail.com">
+  <img align="left" alt="masum | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="#">
+    <img align="left" alt="masum| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>
+  <a href="#">
+    <img align="left" alt="masum| Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
+  
+ 
+  <br>
+  
+<p align="right" > Created with 💖 by <a href="#">Muhammad Maum Billah</a></p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=muhammad-2002&label=Profile%20views&color=0e75b6&style=flat" alt="masum" /> </p>
+
+
+
+
+
+
 
