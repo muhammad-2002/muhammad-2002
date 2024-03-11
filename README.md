@@ -1,4 +1,4 @@
-<img width="80%"  style="align-items:center;" src="https://raw.githubusercontent.com/muhammad-2002/profile-banner/main/Blue%20Illustration%20Website%20Blog%20Banner.png">
+<img width="90%"  style="align-items:center; display:feex;justify-content:center;" src="https://raw.githubusercontent.com/muhammad-2002/profile-banner/main/Blue%20Illustration%20Website%20Blog%20Banner.png">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'M  MUHAMMAD MASUM BILLAH</h1>
 <h3 align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+STACK+WEB+DEVELOPER;DIPLOMA+IN+COMPUTER+SCIENCE+ENGINEERING;BSC+IN+CSE+(NUB)&center=true&width=500&height=50"></a>
