@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://github.com/muhammad-2002">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-2002&theme=radical&border=#FFFFFF&background=0D1117" alt="Masum"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-2002&theme=radical&border=#4c1d95&background=0D1117" alt="Masum"/>
   </a>
 </p>
 
