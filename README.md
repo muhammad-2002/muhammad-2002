@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="90%" height="380px"  src="https://raw.githubusercontent.com/muhammad-2002/profile-banner/main/Blue%20Illustration%20Website%20Blog%20Banner.png">
+  <img width="90%" height="450px"  src="https://raw.githubusercontent.com/muhammad-2002/profile-banner/main/Blue%20Illustration%20Website%20Blog%20Banner.png">
 </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'M  MUHAMMAD MASUM BILLAH</h1>
 <h3 align="center">
