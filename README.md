@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://github.com/muhammad-2002">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-2002&theme=radical&border=#4c1d95&background=2e1065" alt="Masum"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-2002&theme=radical&border=#4c1d95&background=2#083344" alt="Masum"/>
   </a>
 </p>
 
@@ -68,7 +68,7 @@
 </p>
 
 <a > 
-    <a href="https://github.com/muhammad-2002"><img alt="muhammad-2002" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=muhammad-2002&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/muhammad-2002"><img alt="muhammad-2002" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=muhammad-2002&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=083344&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/muhammad-2002"><img alt="Al  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammad-2002&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" /></a>
   <br/>
 </a>
