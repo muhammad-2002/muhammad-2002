@@ -13,7 +13,7 @@
   <b><i>"---Always Work Hard and Dedicated---"</i></b>
     <p align="center">
  <a href="https://my-porfolio-steel.vercel.app/" target="blank">
-  <img src="https://my-porfolio-steel.vercel.app/" alt="masum" />
+  <img src="https://img.shields.io/badge/website-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="masum" />
  </a>
  <a href="https://www.linkedin.com/in/muhammad-masum/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
